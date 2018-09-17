@@ -1,0 +1,8 @@
+C:\Users\logonrmlocal\source\repos\LIB.BoasPraticas\Debugger.Dicas\bin\Debug\netcoreapp2.1\Debugger.Dicas.deps.json
+C:\Users\logonrmlocal\source\repos\LIB.BoasPraticas\Debugger.Dicas\bin\Debug\netcoreapp2.1\Debugger.Dicas.dll
+C:\Users\logonrmlocal\source\repos\LIB.BoasPraticas\Debugger.Dicas\bin\Debug\netcoreapp2.1\Debugger.Dicas.pdb
+C:\Users\logonrmlocal\source\repos\LIB.BoasPraticas\Debugger.Dicas\obj\Debug\netcoreapp2.1\Debugger.Dicas.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\source\repos\LIB.BoasPraticas\Debugger.Dicas\obj\Debug\netcoreapp2.1\Debugger.Dicas.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\source\repos\LIB.BoasPraticas\Debugger.Dicas\obj\Debug\netcoreapp2.1\Debugger.Dicas.AssemblyInfo.cs
+C:\Users\logonrmlocal\source\repos\LIB.BoasPraticas\Debugger.Dicas\obj\Debug\netcoreapp2.1\Debugger.Dicas.dll
+C:\Users\logonrmlocal\source\repos\LIB.BoasPraticas\Debugger.Dicas\obj\Debug\netcoreapp2.1\Debugger.Dicas.pdb

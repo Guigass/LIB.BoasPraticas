@@ -1,0 +1,100 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Debugger.Dicas/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Debugger.Dicas.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Debugger.Dicas.dll": {}
+        }
+      },
+      "Padrao.Singleton/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Padrao.Singleton.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Padrao.Singleton.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Debugger.Dicas/1.0.0": {
+      "type": "project",
+      "path": "../Debugger.Dicas/Debugger.Dicas.csproj",
+      "msbuildProject": "../Debugger.Dicas/Debugger.Dicas.csproj"
+    },
+    "Padrao.Singleton/1.0.0": {
+      "type": "project",
+      "path": "../Padrao.Singleton/Padrao.Singleton.csproj",
+      "msbuildProject": "../Padrao.Singleton/Padrao.Singleton.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.1": [
+      "Debugger.Dicas >= 1.0.0",
+      "Padrao.Singleton >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\logonrmlocal\\Downloads\\LIB.BoasPraticas\\UT.BoasPraticas\\UT.BoasPraticas.csproj",
+      "projectName": "UT.BoasPraticas",
+      "projectPath": "C:\\Users\\logonrmlocal\\Downloads\\LIB.BoasPraticas\\UT.BoasPraticas\\UT.BoasPraticas.csproj",
+      "packagesPath": "C:\\Users\\logonrmlocal\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\logonrmlocal\\Downloads\\LIB.BoasPraticas\\UT.BoasPraticas\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\logonrmlocal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "projectReferences": {
+            "C:\\Users\\logonrmlocal\\Downloads\\LIB.BoasPraticas\\Debugger.Dicas\\Debugger.Dicas.csproj": {
+              "projectPath": "C:\\Users\\logonrmlocal\\Downloads\\LIB.BoasPraticas\\Debugger.Dicas\\Debugger.Dicas.csproj"
+            },
+            "C:\\Users\\logonrmlocal\\Downloads\\LIB.BoasPraticas\\Padrao.Singleton\\Padrao.Singleton.csproj": {
+              "projectPath": "C:\\Users\\logonrmlocal\\Downloads\\LIB.BoasPraticas\\Padrao.Singleton\\Padrao.Singleton.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.1": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}
