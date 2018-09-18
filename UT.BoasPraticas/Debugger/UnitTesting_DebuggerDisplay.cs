@@ -19,5 +19,15 @@ namespace UT.BoasPraticas.Debugger
                 Nome = "Teste teste Silva"
             };
         }
+
+        [TestMethod]
+        public void Test_InfoDebugging()
+        {
+            var detalhesDepuracao = new InvocadorInfo();
+
+            Console.WriteLine(detalhesDepuracao.QuemInvocou());
+            Console.WriteLine(detalhesDepuracao.QualArquivoInvocou());
+            Console.WriteLine(detalhesDepuracao.QueLinhaInvocou());
+        }
     }
 }
