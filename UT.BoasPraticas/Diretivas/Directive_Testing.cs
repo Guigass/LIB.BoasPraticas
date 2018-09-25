@@ -6,7 +6,7 @@ using System.Text;
 namespace UT.BoasPraticas.Diretivas
 {
     [TestClass]
-    class Directive_Testing
+    public class Directive_Testing
     {
         [TestMethod]
         public void TestMethod_Define_PreProcessamento()

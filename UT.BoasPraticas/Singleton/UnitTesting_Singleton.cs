@@ -4,7 +4,7 @@ using Padrao.Singleton;
 namespace UT.BoasPraticas.Singleton
 {
     [TestClass]
-    class UnitTesting_Singleton
+    public class UnitTesting_Singleton
     {
         [TestMethod]
         public void Teste_Singleton_1()

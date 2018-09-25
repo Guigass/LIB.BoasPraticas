@@ -5,7 +5,8 @@ using System.Text;
 
 namespace UT.BoasPraticas.Dicas
 {
-    class ExtensionMethods_UnitTesting
+    [TestClass]
+    public class ExtensionMethods_UnitTesting
     {
         [TestMethod]
         public void TestMethod_Data()
