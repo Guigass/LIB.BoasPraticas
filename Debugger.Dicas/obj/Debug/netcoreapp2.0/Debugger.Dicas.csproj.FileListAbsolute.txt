@@ -7,3 +7,12 @@ C:\Users\logonrmlocal\Downloads\LIB.BoasPraticas\Debugger.Dicas\obj\Debug\netcor
 C:\Users\logonrmlocal\Downloads\LIB.BoasPraticas\Debugger.Dicas\obj\Debug\netcoreapp2.0\Debugger.Dicas.AssemblyInfo.cs
 C:\Users\logonrmlocal\Downloads\LIB.BoasPraticas\Debugger.Dicas\obj\Debug\netcoreapp2.0\Debugger.Dicas.dll
 C:\Users\logonrmlocal\Downloads\LIB.BoasPraticas\Debugger.Dicas\obj\Debug\netcoreapp2.0\Debugger.Dicas.pdb
+C:\Users\logonrmlocal\Source\Repos\LIB.BoasPraticas\Debugger.Dicas\bin\Debug\netcoreapp2.0\Debugger.Dicas.deps.json
+C:\Users\logonrmlocal\Source\Repos\LIB.BoasPraticas\Debugger.Dicas\bin\Debug\netcoreapp2.0\Debugger.Dicas.dll
+C:\Users\logonrmlocal\Source\Repos\LIB.BoasPraticas\Debugger.Dicas\bin\Debug\netcoreapp2.0\Debugger.Dicas.pdb
+C:\Users\logonrmlocal\Source\Repos\LIB.BoasPraticas\Debugger.Dicas\obj\Debug\netcoreapp2.0\Debugger.Dicas.csprojAssemblyReference.cache
+C:\Users\logonrmlocal\Source\Repos\LIB.BoasPraticas\Debugger.Dicas\obj\Debug\netcoreapp2.0\Debugger.Dicas.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Source\Repos\LIB.BoasPraticas\Debugger.Dicas\obj\Debug\netcoreapp2.0\Debugger.Dicas.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\Source\Repos\LIB.BoasPraticas\Debugger.Dicas\obj\Debug\netcoreapp2.0\Debugger.Dicas.AssemblyInfo.cs
+C:\Users\logonrmlocal\Source\Repos\LIB.BoasPraticas\Debugger.Dicas\obj\Debug\netcoreapp2.0\Debugger.Dicas.dll
+C:\Users\logonrmlocal\Source\Repos\LIB.BoasPraticas\Debugger.Dicas\obj\Debug\netcoreapp2.0\Debugger.Dicas.pdb
